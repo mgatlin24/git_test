@@ -1,1 +1,3 @@
 This will publish to Odin, too!
+
+Updating with using VS code for the commit message. Will it work??
